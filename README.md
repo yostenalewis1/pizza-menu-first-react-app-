@@ -16,7 +16,6 @@ Enjoy ordering delicious pizzas from Minu Pizza Restaurant!
 ## Technologies Used 💻
 
 - React
-- HTML
 - CSS
 - JavaScript
 
